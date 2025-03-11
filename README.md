@@ -81,3 +81,14 @@ Utilizes 5 gears for precise control:
 
 - Made for CMPUT 312 Final Project
 - Team Members: Mekha George, Maher Maher
+
+## Images of Car
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7a5ed243-8401-4e5f-aa14-749a0927de6d" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/89dce1ad-2f94-4cbd-bab6-cd6c29e9effc" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/f203c066-472a-45dd-9825-24bc02d6efa4" width="300"></td>
+  </tr>
+</table>
+
+

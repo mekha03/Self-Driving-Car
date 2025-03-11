@@ -1,4 +1,4 @@
-# 🤖 Self-Driving Robot with Single and Stereo Camera Vision 🚗
+# 🤖 Self-Driving Robotic Car with Single and Stereo Camera Vision 🚗
 
 ## 💡 Overview
 
